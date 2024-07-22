@@ -37,3 +37,8 @@ Login
 Verify that the login form is accessible from the "My Account" section.
 Verify that the login form fields are displayed correctly.
 Verify that users can log in with valid credentials.
+
+
+
+Conclusion
+This manual testing project ensures that the "My Account" functionality, specifically the registration and login features, works as expected and provides a good user experience. By performing both functional and usability testing, we can identify and rectify any issues, ensuring a smooth and intuitive experience for the users.
